@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3498C05-4196-4820-A9A3-019170ED3E92}"
+	ProjectSection(SolutionItems) = preProject
+		gra_glowne.c = gra_glowne.c
+		main.c = main.c
+		podstawa.h = podstawa.h
+		ranking.c = ranking.c
+		wypisywanie.c = wypisywanie.c
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F92AACC-E4B3-4C4E-A6D9-9BEAC1D98EC1}
+	EndGlobalSection
+EndGlobal
